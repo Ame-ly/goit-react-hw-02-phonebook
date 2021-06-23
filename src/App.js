@@ -4,7 +4,6 @@ import ContactForm from './Components/ContactForm';
 import ContactList from './Components/ContactList';
 import Filter from './Components/Filter';
 
-// import { v4 as uuidv4 } from 'uuid';
 import shortid from 'shortid';
 
 class App extends Component {
